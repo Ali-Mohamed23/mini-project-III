@@ -61,5 +61,28 @@ In this miniproject, we will:
  
 2. visualize the created clusters using [radar charts](https://plotly.com/python/radar-chart/) and compare them agains each other
 3. visualize segmentations using scatter plot. We will have to use PCA to be able to plot our observations in 2D.
-4. (stretch) visualize in 2D how our clusters are evolving in each iteration of KMeans (for at least 20 iterations).
-    - we will need to create own implementation of kmeans so we can see what is happening with the clusters during the iterations.
+
+
+### Visualizations are located in the notebooks and power-point
+
+
+
+### RESULTS:
+
+Banking behaviour: 
+
+Cluster 0: 241 in cluster, individuals with credit cards, higher debt usage, slightly lower income average, makes more transactions of medium amounts.
+
+Cluster 1: 281 in cluster, majority individuals without credit cards, very low debt usage,  lower savings balance, less transactions of lower amounts.
+
+Cluster 2: 225 in cluster, higher income, individuals with credit cards and low debt usage, highest savings balance, makes medium amount of transactions with larger average amounts.
+
+
+Customer demographics:
+
+Cluster 0: 253 in cluster, average age of 62, medium average income,  
+
+Cluster 1: 240 in cluster, average age of 22, lower average income. 
+
+Cluster 2: 254 in cluster, average age of 41, higher income, higher average of number of children
+
